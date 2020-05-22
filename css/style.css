@@ -58,3 +58,6 @@ p {
 footer.page-footer {
   margin: 0;
 }
+.parallax {
+  filter: blur(6px);
+}
