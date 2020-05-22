@@ -5,6 +5,9 @@
  *
  * Made By MaterializeCSS.com
  */
+ .parallax {
+  filter: blur(6px);
+}
 .light td {
   padding: 5px;
   text-align: right;
@@ -58,6 +61,4 @@ p {
 footer.page-footer {
   margin: 0;
 }
-.parallax {
-  filter: blur(6px);
-}
+
